@@ -16,8 +16,6 @@ function tailsNeverFails(heads, tails)  {
  while (Math.random() >= 0.5) {
     tails ++;
  }
-
-
 } 
 
   
