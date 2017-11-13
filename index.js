@@ -13,9 +13,11 @@ function printBadges (names){
 function tailsNeverFails(heads, tails)  {
   return Math.random() >= 0.5;
 } 
-//let flips = 0;
 
-//while (flips < 0) 
+while (tailsNeverFails()) {
+  console.log('Your got 2 tails in a row!');
+}
+
   
   
   
