@@ -12,9 +12,10 @@ function printBadges (names){
 
 function tailsNeverFails(heads, tails)  {
   return Math.random() >= 0.5;
+} 
+let flips = 0;
 
-}
-
+while (flips < 0) 
   
   
   
