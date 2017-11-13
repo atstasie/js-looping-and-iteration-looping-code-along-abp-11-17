@@ -2,5 +2,4 @@
 printBadges = ['Ada', 'Brenda', 'Ali'];
   function 
 
-
 console.log
