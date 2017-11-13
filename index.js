@@ -1,7 +1,7 @@
 // Code your solutions in this file
-
-function (names){
-  printBadges = ['Ada', 'Brenda', 'Ali'];
+const names =  ['Ada', 'Brenda', 'Ali'];
+function printBadges (names){
+  
   
 }
 
