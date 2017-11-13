@@ -10,14 +10,15 @@ function printBadges (names){
   return names;
 }
 
-function tailsNeverFails(heads, tails)  {
- let tails = 0;
- 
- while (Math.random() >= 0.5) {
-    tails ++;
- }
-} 
+function tailsNeverFails () {
+  let tails = 0;
 
+  while (Math.random() >= 0.5) {
+    tails++;
+  }
+
+  return `You got ${tails} tails in a row!`;
+}
   
   
 
