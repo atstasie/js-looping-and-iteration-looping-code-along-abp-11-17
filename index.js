@@ -1,5 +1,8 @@
 // Code your solutions in this file
-printBadges = ['Ada', 'Brenda', 'Ali'];
-  function 
+  const printBadges = ['Ada', 'Brenda', 'Ali'];
+  
+  
+  
+
 
 console.log
