@@ -1,6 +1,6 @@
 // Code your solutions in this file
 
-function (){
+function (names){
   printBadges = ['Ada', 'Brenda', 'Ali'];
   
 }
