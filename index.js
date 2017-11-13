@@ -15,11 +15,6 @@ function tailsNeverFails(heads, tails)  {
  while (Math.random() >= 0.5)
 } 
 
-while (tails < 2) {
-  console.log('Your got 2 tails in a row!');
-}
-
-  
   
   
 
